@@ -1,11 +1,10 @@
 package main
 
 import (
+	"context"
 	"fmt"
 	"os/exec"
 	"strconv"
-
-	"context"
 	"time"
 
 	"github.com/BurntSushi/toml"
